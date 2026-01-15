@@ -11,8 +11,8 @@
     "start:dev": "nodemon index.js",
     "dev": "concurrently \"npm run start\" \"npm run watch\"",
     "watch": "browser-sync start --config bs-config.js",
-    "seed": "skyport seed",
-    "createUser": "skyport createUser",
+    "seed": "casa-og-panel seed",
+    "createUser": "casa-og-panel createUser",
     "build:css": "npx @tailwindcss/cli -i ./public/tw.conf -o ./public/assets/tailwind.css --watch"
   },
   "author": "casa-og-panel",
