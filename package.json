@@ -1,7 +1,7 @@
 {
-  "name": "skyport",
-  "version": "0.3.0",
-  "description": "Skyport is an open source panel for managing and operating game servers and applications built using Node.js with Express and Docker.",
+  "name": "casa-og-panel",
+  "version": "1.0",
+  "description": "casa-og-panel is an open source panel for managing and operating game servers and applications built using Node.js with Express and Docker.",
   "main": "index.js",
   "bin": {
     "skyport": "./exec/bin/index.js"
@@ -15,7 +15,7 @@
     "createUser": "skyport createUser",
     "build:css": "npx @tailwindcss/cli -i ./public/tw.conf -o ./public/assets/tailwind.css --watch"
   },
-  "author": "skyport-team",
+  "author": "casa-og-panel",
   "license": "MIT",
   "dependencies": {
     "@keyv/sqlite": "^3.6.7",
