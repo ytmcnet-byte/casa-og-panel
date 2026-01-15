@@ -1,5 +1,5 @@
 {
-  "button-color": "bg-white hover:bg-neutral-300 text-neutral-800",
-  "paneltheme-color": "bg-[#1f1e1e]",
+  "button-color": "bg-purple-600 hover:bg-purple-700 text-white",
+  "paneltheme-color": "bg-[#0f172a]",
   "sidebar-direction": "left"
 }
